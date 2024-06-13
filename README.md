@@ -31,6 +31,6 @@ The goal of this application is to provide accurate vehicle detection, tracking,
   4. Review Results: Once processing is complete, review the generated video and accompanying Excel sheet for vehicle detection, tracking, and counting results.
   5. Analyze Report: Analyze the generated report to assess traffic flow and vehicle counts across different vehicle types.
 
-Click on the image below to see the video:
+**Click on the image below to see the video:**
 
 [![Vehicle_Tracking_Demo](http://img.youtube.com/vi/Ubv8ce_3ahk/0.jpg)](http://www.youtube.com/watch?v=Ubv8ce_3ahk "Vehicle_Tracking _Demo")
